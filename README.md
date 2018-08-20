@@ -1,4 +1,4 @@
-# REST-Data-Ticker
+# REST-Data-Pipeline
 
 Language:                              Node.js, JavaScript
 
